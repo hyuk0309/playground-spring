@@ -1,4 +1,4 @@
-package hyuk.example.playgroundspring;
+package com.example.playgroundspring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

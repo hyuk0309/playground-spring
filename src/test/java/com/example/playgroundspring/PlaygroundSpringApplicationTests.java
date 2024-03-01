@@ -1,4 +1,4 @@
-package hyuk.example.playgroundspring;
+package com.example.playgroundspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
